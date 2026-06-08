@@ -188,4 +188,6 @@ Replace `REPOSITORY_URL` with the public URL of this GitHub repository.
 
 ## Contact
 
-Antonio Iannone
+**Antonio Iannone**
+
+- LinkedIn: [Antonio Iannone]([https://www.linkedin.com/in/tuo-profilo/](https://www.linkedin.com/in/antonio-iannone-2a7900270/))
